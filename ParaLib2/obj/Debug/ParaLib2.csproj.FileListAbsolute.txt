@@ -1,0 +1,5 @@
+C:\Users\FatBoy\Desktop\c#\ParaLib2\ParaLib2\bin\Debug\ParaLib2.dll
+C:\Users\FatBoy\Desktop\c#\ParaLib2\ParaLib2\bin\Debug\ParaLib2.pdb
+C:\Users\FatBoy\Desktop\c#\ParaLib2\ParaLib2\obj\Debug\ParaLib2.csprojResolveAssemblyReference.cache
+C:\Users\FatBoy\Desktop\c#\ParaLib2\ParaLib2\obj\Debug\ParaLib2.dll
+C:\Users\FatBoy\Desktop\c#\ParaLib2\ParaLib2\obj\Debug\ParaLib2.pdb
